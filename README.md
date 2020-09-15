@@ -28,7 +28,7 @@ Download: https://www.kaggle.com/c/widsdatathon2020/data
 ### Exploratory Data Analysis:
 
 <p align="center">
-  <img src="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG" />
+  <img src="https://github.com/yuling0330/icu_24hour_survival_analysis/blob/master/presentation/eda_to_show.png" />
 </p>
 
 ----
@@ -45,5 +45,5 @@ Download: https://www.kaggle.com/c/widsdatathon2020/data
 
 
 <p align="center">
-  <img src="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG" />
+  <img src="https://github.com/yuling0330/icu_24hour_survival_analysis/blob/master/presentation/results_to_show.PNG" />
 </p>
