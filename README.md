@@ -1,4 +1,4 @@
-# icu_24hour_survival_analysis
+# ICU 24 Hour Survival Analysis
 ----
 ## Background
 
