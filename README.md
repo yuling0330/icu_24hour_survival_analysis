@@ -17,3 +17,33 @@ Create a model that uses data from the first 24 hours of intensive care to predi
   - Transparent (easy to explain)
   - Generalizability
   - Less complexity
+
+----
+### Data:
+
+The dataset contains 90k patients, with 186 features, among 147 hospitals and 5 countries
+Download: https://www.kaggle.com/c/widsdatathon2020/data
+
+----
+### Exploratory Data Analysis:
+
+<p align="center">
+  <img src="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG" />
+</p>
+
+----
+### Models:
+
+- Logistic Regression
+- Logistic Regression with PCA
+- Random Forest
+- Catboost
+- Light Gradient Boost
+
+----
+### Results:
+
+
+<p align="center">
+  <img src="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG" />
+</p>
